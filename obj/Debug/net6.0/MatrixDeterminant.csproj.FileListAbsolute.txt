@@ -1,0 +1,15 @@
+C:\Users\mcpta\Desktop\MatrixDeterminant\bin\Debug\net6.0\MatrixDeterminant.exe
+C:\Users\mcpta\Desktop\MatrixDeterminant\bin\Debug\net6.0\MatrixDeterminant.deps.json
+C:\Users\mcpta\Desktop\MatrixDeterminant\bin\Debug\net6.0\MatrixDeterminant.runtimeconfig.json
+C:\Users\mcpta\Desktop\MatrixDeterminant\bin\Debug\net6.0\MatrixDeterminant.dll
+C:\Users\mcpta\Desktop\MatrixDeterminant\bin\Debug\net6.0\MatrixDeterminant.pdb
+C:\Users\mcpta\Desktop\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.csproj.AssemblyReference.cache
+C:\Users\mcpta\Desktop\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcpta\Desktop\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.AssemblyInfoInputs.cache
+C:\Users\mcpta\Desktop\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.AssemblyInfo.cs
+C:\Users\mcpta\Desktop\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.csproj.CoreCompileInputs.cache
+C:\Users\mcpta\Desktop\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.dll
+C:\Users\mcpta\Desktop\MatrixDeterminant\obj\Debug\net6.0\refint\MatrixDeterminant.dll
+C:\Users\mcpta\Desktop\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.pdb
+C:\Users\mcpta\Desktop\MatrixDeterminant\obj\Debug\net6.0\MatrixDeterminant.genruntimeconfig.cache
+C:\Users\mcpta\Desktop\MatrixDeterminant\obj\Debug\net6.0\ref\MatrixDeterminant.dll
